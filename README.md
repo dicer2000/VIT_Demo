@@ -1,6 +1,6 @@
 <img src="./VTView.png" alt="ViT" width="200" align="right" />
 
-# Vision Transformer Demo
+# Vision Transformer Demos
 
 (c)2024 Brett Huffman
 

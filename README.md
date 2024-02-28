@@ -1,4 +1,4 @@
-<img src="./VTView.png" alt="ViT" width="200" align="right" />
+<img src="./VTView.png" alt="ViT" width="200" align="right" style="z-index: 100" />
 
 # Vision Transformer Demos
 

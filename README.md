@@ -11,10 +11,12 @@ These are a series of demos for the class demonstration on Feb 28, 2024.  You wi
 
 
 Demo 1<br />
-https://gist.github.com/dicer2000/1bbf305afbf80e67de05b4c94da0bdd3
+<a href="https://gist.github.com/dicer2000/1bbf305afbf80e67de05b4c94da0bdd3" target="_blank">https://gist.github.com/dicer2000/1bbf305afbf80e67de05b4c94da0bdd3</a>
+
 
 Demo 2<br />
-https://gist.github.com/dicer2000/a06d3c75b3a52a01eebd50deff74c126
+<a href="https://gist.github.com/dicer2000/a06d3c75b3a52a01eebd50deff74c126" target="_blank">https://gist.github.com/dicer2000/a06d3c75b3a52a01eebd50deff74c126</a>
+
 
 Demo 3<br />
-https://gist.github.com/dicer2000/b4210a364243d24fad2ee8dd824b6474
+<a href="https://gist.github.com/dicer2000/b4210a364243d24fad2ee8dd824b6474" target="_blank">https://gist.github.com/dicer2000/b4210a364243d24fad2ee8dd824b6474</a>
